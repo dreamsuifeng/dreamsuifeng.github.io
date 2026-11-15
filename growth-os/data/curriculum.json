@@ -1,0 +1,544 @@
+{
+  "schema_version": 1,
+  "project": "成长 OS：金融投资 × AI 创业",
+  "timezone": "Asia/Shanghai",
+  "start_date": "2026-11-16",
+  "end_date": "2027-05-16",
+  "task_keys": {
+    "course": "课程学习",
+    "reading": "教材阅读",
+    "assignment": "实践作业",
+    "startup_research": "创业研究",
+    "outreach": "交流行动"
+  },
+  "resources": {
+    "中财金融学": "https://www.icourse163.org/course/0203CUFE001A-21011",
+    "Yale Financial Markets": "https://online.yale.edu/courses/financial-markets",
+    "MIT 15.501": "https://ocw.mit.edu/courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/",
+    "MIT 15.401": "https://ocw.mit.edu/courses/15-401-finance-theory-i-fall-2008/",
+    "NYU Valuation": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/equity.html",
+    "YC Startup School": "https://www.startupschool.org/"
+  },
+  "weeks": [
+    {
+      "id": "W01",
+      "start": "2026-11-16",
+      "end": "2026-11-22",
+      "phase": "金融基础",
+      "title": "金融体系与资产类别",
+      "topics": "金融市场主体、货币、信用、股票与债券",
+      "book": "《货币金融学》导论",
+      "course": "中央财经大学《金融学》导论",
+      "assignment": "绘制金融体系知识地图",
+      "startup_research": "筛选并研究1家AI Agent / AI Search公司",
+      "outreach": "筛选联系对象并发起交流邀请",
+      "tasks": [
+        "course",
+        "reading",
+        "assignment",
+        "startup_research",
+        "outreach"
+      ]
+    },
+    {
+      "id": "W02",
+      "start": "2026-11-23",
+      "end": "2026-11-29",
+      "phase": "金融基础",
+      "title": "时间价值与债券",
+      "topics": "复利、现值、利率、债券价格及收益率曲线",
+      "book": "《货币金融学》利率章节",
+      "course": "中财《金融学》：利率与金融工具",
+      "assignment": "完成现值与债券计算题",
+      "startup_research": "筛选并研究1家AI Agent / AI Search公司",
+      "outreach": "完成约聊或复盘跟进",
+      "tasks": [
+        "course",
+        "reading",
+        "assignment",
+        "startup_research",
+        "outreach"
+      ]
+    },
+    {
+      "id": "W03",
+      "start": "2026-11-30",
+      "end": "2026-12-06",
+      "phase": "金融基础",
+      "title": "货币政策与宏观",
+      "topics": "通胀、信用周期、央行、货币政策传导",
+      "book": "《货币金融学》货币政策章节",
+      "course": "Yale Financial Markets 选讲",
+      "assignment": "绘制降息对资产价格的影响图",
+      "startup_research": "筛选并研究1家AI Agent / AI Search公司",
+      "outreach": "筛选联系对象并发起交流邀请",
+      "tasks": [
+        "course",
+        "reading",
+        "assignment",
+        "startup_research",
+        "outreach"
+      ]
+    },
+    {
+      "id": "W04",
+      "start": "2026-12-07",
+      "end": "2026-12-13",
+      "phase": "金融基础",
+      "title": "风险溢价与金融市场",
+      "topics": "股票、债券、风险溢价、行为金融",
+      "book": "《货币金融学》金融市场章节",
+      "course": "Yale Financial Markets 选讲",
+      "assignment": "撰写第一份资产价格分析",
+      "startup_research": "筛选并研究1家AI Agent / AI Search公司",
+      "outreach": "完成约聊或复盘跟进",
+      "tasks": [
+        "course",
+        "reading",
+        "assignment",
+        "startup_research",
+        "outreach"
+      ]
+    },
+    {
+      "id": "W05",
+      "start": "2026-12-14",
+      "end": "2026-12-20",
+      "phase": "财务会计",
+      "title": "会计与资产负债表",
+      "topics": "会计恒等式、资产、负债、权益",
+      "book": "财务报表入门教材",
+      "course": "MIT 15.501 会计课程",
+      "assignment": "拆解一家上市公司的资产负债表",
+      "startup_research": "研究1家AI创业公司，记录商业证据",
+      "outreach": "筛选联系对象并发起交流邀请",
+      "tasks": [
+        "course",
+        "reading",
+        "assignment",
+        "startup_research",
+        "outreach"
+      ]
+    },
+    {
+      "id": "W06",
+      "start": "2026-12-21",
+      "end": "2026-12-27",
+      "phase": "财务会计",
+      "title": "利润表与经营质量",
+      "topics": "收入确认、成本结构、毛利率、利润率",
+      "book": "财务报表入门教材",
+      "course": "MIT 15.501 会计课程",
+      "assignment": "分析收入与利润质量",
+      "startup_research": "研究1家AI创业公司，记录商业证据",
+      "outreach": "完成约聊或复盘跟进",
+      "tasks": [
+        "course",
+        "reading",
+        "assignment",
+        "startup_research",
+        "outreach"
+      ]
+    },
+    {
+      "id": "W07",
+      "start": "2026-12-28",
+      "end": "2027-01-03",
+      "phase": "财务会计",
+      "title": "现金流与营运资本",
+      "topics": "经营现金流、资本开支、营运资本、自由现金流",
+      "book": "财务报表入门教材",
+      "course": "MIT 15.501 会计课程",
+      "assignment": "计算企业自由现金流",
+      "startup_research": "研究1家AI创业公司，记录商业证据",
+      "outreach": "筛选联系对象并发起交流邀请",
+      "tasks": [
+        "course",
+        "reading",
+        "assignment",
+        "startup_research",
+        "outreach"
+      ]
+    },
+    {
+      "id": "W08",
+      "start": "2027-01-04",
+      "end": "2027-01-10",
+      "phase": "财务会计",
+      "title": "财报综合分析",
+      "topics": "ROE、ROIC、财务比率、年报阅读",
+      "book": "公司年报与财务分析材料",
+      "course": "MIT 15.501 习题",
+      "assignment": "完成第一份财报分析",
+      "startup_research": "研究1家AI创业公司，记录商业证据",
+      "outreach": "完成约聊或复盘跟进",
+      "tasks": [
+        "course",
+        "reading",
+        "assignment",
+        "startup_research",
+        "outreach"
+      ]
+    },
+    {
+      "id": "W09",
+      "start": "2027-01-11",
+      "end": "2027-01-17",
+      "phase": "公司金融与估值",
+      "title": "公司金融与NPV",
+      "topics": "NPV、IRR、资本预算与现金流",
+      "book": "《公司理财》资本预算章节",
+      "course": "MIT 15.401",
+      "assignment": "构建现金流折现练习模型",
+      "startup_research": "研究1家AI创业公司，记录商业证据",
+      "outreach": "筛选联系对象并发起交流邀请",
+      "tasks": [
+        "course",
+        "reading",
+        "assignment",
+        "startup_research",
+        "outreach"
+      ]
+    },
+    {
+      "id": "W10",
+      "start": "2027-01-18",
+      "end": "2027-01-24",
+      "phase": "公司金融与估值",
+      "title": "资本成本",
+      "topics": "CAPM、Beta、权益成本、WACC",
+      "book": "《公司理财》风险收益章节",
+      "course": "MIT 15.401",
+      "assignment": "计算 WACC 并解释假设",
+      "startup_research": "研究1家AI创业公司，记录商业证据",
+      "outreach": "完成约聊或复盘跟进",
+      "tasks": [
+        "course",
+        "reading",
+        "assignment",
+        "startup_research",
+        "outreach"
+      ]
+    },
+    {
+      "id": "W11",
+      "start": "2027-01-25",
+      "end": "2027-01-31",
+      "phase": "公司金融与估值",
+      "title": "DCF 估值",
+      "topics": "FCFF、FCFE、终值与敏感性",
+      "book": "《投资估价》DCF章节",
+      "course": "NYU Stern Damodaran Valuation",
+      "assignment": "搭建完整 DCF 模型",
+      "startup_research": "研究1家AI创业公司，记录商业证据",
+      "outreach": "筛选联系对象并发起交流邀请",
+      "tasks": [
+        "course",
+        "reading",
+        "assignment",
+        "startup_research",
+        "outreach"
+      ]
+    },
+    {
+      "id": "W12",
+      "start": "2027-02-01",
+      "end": "2027-02-07",
+      "phase": "公司金融与估值",
+      "title": "相对估值",
+      "topics": "PE、PB、EV/EBITDA、可比公司",
+      "book": "《投资估价》相对估值章节",
+      "course": "NYU Stern Damodaran Valuation",
+      "assignment": "比较两种企业估值方法",
+      "startup_research": "研究1家AI创业公司，记录商业证据",
+      "outreach": "完成约聊或复盘跟进",
+      "tasks": [
+        "course",
+        "reading",
+        "assignment",
+        "startup_research",
+        "outreach"
+      ]
+    },
+    {
+      "id": "W13",
+      "start": "2027-02-08",
+      "end": "2027-02-14",
+      "phase": "公司金融与估值",
+      "title": "估值案例",
+      "topics": "增长率、利润率、折现率、情景分析",
+      "book": "《投资估价》估值案例",
+      "course": "NYU Stern Damodaran Valuation",
+      "assignment": "提交上市公司估值报告",
+      "startup_research": "研究1家AI创业公司，记录商业证据",
+      "outreach": "筛选联系对象并发起交流邀请",
+      "tasks": [
+        "course",
+        "reading",
+        "assignment",
+        "startup_research",
+        "outreach"
+      ]
+    },
+    {
+      "id": "W14",
+      "start": "2027-02-15",
+      "end": "2027-02-21",
+      "phase": "投资与资产配置",
+      "title": "组合投资",
+      "topics": "风险与收益、分散化、有效前沿",
+      "book": "《投资学》组合理论章节",
+      "course": "MIT 15.401 对应内容",
+      "assignment": "建立组合收益风险表",
+      "startup_research": "更新创业机会库，关注融资和招聘",
+      "outreach": "完成约聊或复盘跟进",
+      "tasks": [
+        "course",
+        "reading",
+        "assignment",
+        "startup_research",
+        "outreach"
+      ]
+    },
+    {
+      "id": "W15",
+      "start": "2027-02-22",
+      "end": "2027-02-28",
+      "phase": "投资与资产配置",
+      "title": "资产定价",
+      "topics": "CAPM、因子、市场有效性",
+      "book": "《投资学》资产定价章节",
+      "course": "MIT 15.401 对应内容",
+      "assignment": "解释超额收益与风险因子",
+      "startup_research": "更新创业机会库，关注融资和招聘",
+      "outreach": "筛选联系对象并发起交流邀请",
+      "tasks": [
+        "course",
+        "reading",
+        "assignment",
+        "startup_research",
+        "outreach"
+      ]
+    },
+    {
+      "id": "W16",
+      "start": "2027-03-01",
+      "end": "2027-03-07",
+      "phase": "投资与资产配置",
+      "title": "投资工具与配置",
+      "topics": "股票、债券、基金、ETF、再平衡",
+      "book": "《投资学》资产配置章节",
+      "course": "课程回顾与习题",
+      "assignment": "设计个人资产配置草案",
+      "startup_research": "更新创业机会库，关注融资和招聘",
+      "outreach": "完成约聊或复盘跟进",
+      "tasks": [
+        "course",
+        "reading",
+        "assignment",
+        "startup_research",
+        "outreach"
+      ]
+    },
+    {
+      "id": "W17",
+      "start": "2027-03-08",
+      "end": "2027-03-14",
+      "phase": "投资与资产配置",
+      "title": "风险管理",
+      "topics": "最大回撤、夏普比率、仓位、投资纪律",
+      "book": "《聪明的投资者》选读",
+      "course": "投资学专题复习",
+      "assignment": "写个人投资政策声明",
+      "startup_research": "更新创业机会库，关注融资和招聘",
+      "outreach": "筛选联系对象并发起交流邀请",
+      "tasks": [
+        "course",
+        "reading",
+        "assignment",
+        "startup_research",
+        "outreach"
+      ]
+    },
+    {
+      "id": "W18",
+      "start": "2027-03-15",
+      "end": "2027-03-21",
+      "phase": "创业金融",
+      "title": "风险投资机制",
+      "topics": "VC 基金、投资组合、融资轮次",
+      "book": "《Secrets of Sand Hill Road》",
+      "course": "YC Startup School",
+      "assignment": "绘制风险投资生态图",
+      "startup_research": "更新创业机会库，关注融资和招聘",
+      "outreach": "完成约聊或复盘跟进",
+      "tasks": [
+        "course",
+        "reading",
+        "assignment",
+        "startup_research",
+        "outreach"
+      ]
+    },
+    {
+      "id": "W19",
+      "start": "2027-03-22",
+      "end": "2027-03-28",
+      "phase": "创业金融",
+      "title": "股权与稀释",
+      "topics": "Cap Table、期权池、后续融资稀释",
+      "book": "《Venture Deals》",
+      "course": "YC Startup School",
+      "assignment": "建立员工股权稀释模型",
+      "startup_research": "更新创业机会库，关注融资和招聘",
+      "outreach": "筛选联系对象并发起交流邀请",
+      "tasks": [
+        "course",
+        "reading",
+        "assignment",
+        "startup_research",
+        "outreach"
+      ]
+    },
+    {
+      "id": "W20",
+      "start": "2027-03-29",
+      "end": "2027-04-04",
+      "phase": "创业金融",
+      "title": "融资条款",
+      "topics": "Term Sheet、清算优先权、退出分配",
+      "book": "《Venture Deals》",
+      "course": "Stanford CS183B",
+      "assignment": "模拟融资与退出收益",
+      "startup_research": "更新创业机会库，关注融资和招聘",
+      "outreach": "完成约聊或复盘跟进",
+      "tasks": [
+        "course",
+        "reading",
+        "assignment",
+        "startup_research",
+        "outreach"
+      ]
+    },
+    {
+      "id": "W21",
+      "start": "2027-04-05",
+      "end": "2027-04-11",
+      "phase": "创业金融",
+      "title": "创业商业分析",
+      "topics": "PMF、留存、增长、单位经济模型",
+      "book": "《Venture Deals》与案例",
+      "course": "YC Startup School",
+      "assignment": "完成第一份AI创业公司分析",
+      "startup_research": "更新创业机会库，关注融资和招聘",
+      "outreach": "筛选联系对象并发起交流邀请",
+      "tasks": [
+        "course",
+        "reading",
+        "assignment",
+        "startup_research",
+        "outreach"
+      ]
+    },
+    {
+      "id": "W22",
+      "start": "2027-04-12",
+      "end": "2027-04-18",
+      "phase": "综合实战",
+      "title": "成熟企业研究",
+      "topics": "财务质量、护城河、估值与风险",
+      "book": "公司年报与《投资估价》",
+      "course": "案例实战",
+      "assignment": "完成成熟企业投资报告",
+      "startup_research": "完善创业尽调或更新重点公司",
+      "outreach": "完成约聊或复盘跟进",
+      "tasks": [
+        "course",
+        "reading",
+        "assignment",
+        "startup_research",
+        "outreach"
+      ]
+    },
+    {
+      "id": "W23",
+      "start": "2027-04-19",
+      "end": "2027-04-25",
+      "phase": "综合实战",
+      "title": "科技企业研究",
+      "topics": "AI企业增长、利润率、估值假设",
+      "book": "科技公司年报与估值案例",
+      "course": "案例实战",
+      "assignment": "完成科技公司估值报告",
+      "startup_research": "完善创业尽调或更新重点公司",
+      "outreach": "筛选联系对象并发起交流邀请",
+      "tasks": [
+        "course",
+        "reading",
+        "assignment",
+        "startup_research",
+        "outreach"
+      ]
+    },
+    {
+      "id": "W24",
+      "start": "2027-04-26",
+      "end": "2027-05-02",
+      "phase": "综合实战",
+      "title": "AI创业尽调",
+      "topics": "团队、产品、客户、融资、技术壁垒",
+      "book": "创业研究资料",
+      "course": "行业一手信息",
+      "assignment": "完成创业公司尽调报告",
+      "startup_research": "完善创业尽调或更新重点公司",
+      "outreach": "完成约聊或复盘跟进",
+      "tasks": [
+        "course",
+        "reading",
+        "assignment",
+        "startup_research",
+        "outreach"
+      ]
+    },
+    {
+      "id": "W25",
+      "start": "2027-05-03",
+      "end": "2027-05-09",
+      "phase": "综合实战",
+      "title": "十年资产计划",
+      "topics": "长期配置、回撤情景、再平衡",
+      "book": "《投资学》与笔记",
+      "course": "投资组合实战",
+      "assignment": "完成个人十年投资计划",
+      "startup_research": "完善创业尽调或更新重点公司",
+      "outreach": "筛选联系对象并发起交流邀请",
+      "tasks": [
+        "course",
+        "reading",
+        "assignment",
+        "startup_research",
+        "outreach"
+      ]
+    },
+    {
+      "id": "W26",
+      "start": "2027-05-10",
+      "end": "2027-05-16",
+      "phase": "综合实战",
+      "title": "综合决策报告",
+      "topics": "留任、加入创业、独立创业的风险收益",
+      "book": "全部笔记与研究成果",
+      "course": "六个月总复盘",
+      "assignment": "完成职业与财富决策报告",
+      "startup_research": "完善创业尽调或更新重点公司",
+      "outreach": "完成约聊或复盘跟进",
+      "tasks": [
+        "course",
+        "reading",
+        "assignment",
+        "startup_research",
+        "outreach"
+      ]
+    }
+  ]
+}
